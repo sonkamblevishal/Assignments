@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(7, 112, 126);
+}    
+    
+    .rectangle_1{
+    margin-top: 100px;
+    width:  0;
+    height: 0;
+    position:relative;
+    left: 40%;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 150px solid rgb(245, 245, 245);
+    z-index: 2;
+   
+            
+    }
+
+
+    .rectangle_2{
+        
+        width:  0;
+        height: 0;
+        position:relative;
+        bottom: 90px;
+        left: 40%;  
+        border-left: 150px solid transparent;
+        border-right: 150px solid transparent;
+        border-bottom: 150px solid rgb(223, 193, 128);
+        z-index: 1;
+    }
+
+    .rectangle_3{
+        
+        width:  0;
+        height: 0;
+        position:relative;
+        bottom: 180px;
+        left: 40%;  
+        border-left: 150px solid transparent;
+        border-right: 150px solid transparent;
+        border-bottom: 150px solid rgb(23, 179, 171);;
+        
+    }
+    
