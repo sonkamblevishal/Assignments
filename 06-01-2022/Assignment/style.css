@@ -1,0 +1,20 @@
+body{
+
+   
+    text-align: center;
+   
+
+}
+
+.container{
+    border: 1px solid black;
+    margin: 40px 400px  0 300px;
+    background-color: rgb(228, 174, 174);
+   
+}
+p{
+    text-align: justify;
+}
+.star{
+    text-align: center;
+}
