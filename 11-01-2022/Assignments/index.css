@@ -1,0 +1,197 @@
+*{
+    width: 300px;
+    margin: auto;
+}
+
+#parent{
+    margin: 24px;
+    text-align: center;
+    border: 4px solid grey;
+    list-style-type: none;
+    height: 300px;
+    position: sticky;
+    overflow: scroll;
+}
+
+.item_1{
+    /* position: sticky;    */
+    background-color: salmon;
+ }
+
+.item_1 :nth-child(1){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(13){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(25){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+
+.item_1 :nth-child(37){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(51){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(65){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(79){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(93){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(107){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(121){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(135){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(149){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(163){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(177){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(191){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(205){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(219){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(234){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(248){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.item_1 :nth-child(262){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+.item_1 :nth-child(276){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+.item_1 :nth-child(290){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+.item_1 :nth-child(304){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+.item_1 :nth-child(318){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+.item_1 :nth-child(332){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+.item_1 :nth-child(346){
+    background-color:rgb(83, 83, 83);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
