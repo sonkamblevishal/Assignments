@@ -1,0 +1,135 @@
+#container{
+    border: 2px solid grey;
+    display: flex;
+    margin: 34px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items:center;
+    text-align: center;
+   }
+
+.child_container{
+    height: 200px;
+    width: 200px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+
+ }
+
+.child_1{
+    height:50px;
+    width: 100%;
+    background-color:red;
+}
+.child_2{
+    height:100px;
+    width: 10%;
+    background-color:rgb(0, 72, 72);
+   
+}
+.child_3{
+    height:100px;
+    width: 80%;
+    background-color:rgb(208, 177, 1);
+}
+.child_4{
+    height:100px;
+    width: 10%;
+    background-color:rgb(14, 141, 129);
+}
+.child_5{
+    height:50px;
+    width: 100%;
+    background-color:rgb(2, 145, 14);
+}
+
+
+@media(max-width:600px){
+
+    #container{
+        display:Flex;
+        margin: 0;
+        height:100px;
+        
+    }
+
+    .child_1{
+         width: 100%;
+         order: 1;
+        
+    }
+    .child_2{
+        height:50px;
+        width: 100%;
+        order: 3;
+        
+    }
+    .child_3{
+        width: 100%;
+        overflow: hidden;
+        order: 2;
+            
+    }
+    .child_4{
+        height:50px;
+        width: 100%;
+        order: 4;
+        
+    }
+    .child_5{
+        height:50px;
+        width:100%;
+        order:5;  
+    }
+}
+
+    @media(min-width:600px) and (max-width:800px){
+
+        #container{
+            display:Flex;
+            margin: 0;
+            height:100px;
+            
+        }
+
+        .child_1{
+            height:50px;
+            width:100%;
+            order:1;  
+        }
+
+        .child_2{
+            height:50px;
+            width:50%;
+            order:3;  
+        }
+
+        .child_3{
+            height:50px;
+            width:100%;
+            order:2;  
+        }
+
+        .child_4{
+            height:50px;
+            width:50%;
+            order:4;  
+        }
+
+        .child_5{
+            height:50px;
+            width:100%;
+            order:5;  
+        }
+
+
+    }
+
+
+
+
+
+
+
+
