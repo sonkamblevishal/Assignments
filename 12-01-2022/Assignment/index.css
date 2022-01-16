@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding: 0;
+ 
+}
+
+.p1{
+    margin: 40px 15%;
+    width: 70%;
+    height: 360px;
+    display: block;
+    display: grid;
+    grid-template-columns: 1.5fr 1.5fr ;
+    background-color: white;
+            
+}
+.like{
+    display: grid;
+    place-items: center;
+}
+.dislike{
+    display: grid;
+    place-items: center;
+}
+.icon{
+       font-size: 80px;
+    color: rgb(18, 128, 3);
+    cursor: pointer;
+}
+.symbol{
+       font-size: 80px;
+    color: rgb(214, 0, 0);
+    cursor: pointer;
+}
+input{
+    margin-top: -100px;
+    margin-left: 15px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: center;
+    background: none;
+    font-size: 30px;
+    font-weight: 800;
+    pointer-events: none;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 3px white;
+}
