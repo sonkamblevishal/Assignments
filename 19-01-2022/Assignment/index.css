@@ -1,0 +1,68 @@
+.container{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    left: 35%;
+    top: 20px;
+    width: 400px;
+    padding: 20px;
+}
+h1{
+    letter-spacing: 3px; 
+}
+.child{
+    background-color: rgb(248, 248, 244);
+   }
+
+p img{
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    position: relative;
+    z-index: 2;
+}
+
+.circle{
+    background-color: rgb(101, 101, 246);
+    height: 180px;
+    width: 193px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    margin-top: -204px;
+    margin-left: -90px;
+   }
+
+.double-quote{
+    background-color: rgb(101, 101, 246);
+    color: white;
+    padding: 14px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    left: 105px;
+    top: 133px;
+    z-index: 3;
+
+}
+
+hr{
+    border: 2px solid rgb(101, 101, 246);
+    width: 80px;
+}
+
+.arrow{
+    margin-right: 14px;
+    margin-bottom: 10px;
+    background-color:white;
+    color: rgb(61, 93, 182);
+    border: none;
+    }
+
+.btn{
+     border:2px solid rgb(61, 93, 182);
+     border-radius: 70px;
+     padding: 8px ;
+     margin:10px;
+}
+
