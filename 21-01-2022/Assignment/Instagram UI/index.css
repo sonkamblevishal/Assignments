@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+}
+
+#navbar
+{
+    background-color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+   
+}
+
+.nav-items
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 400px;
+}
+
+#icon
+{
+    display: flex;
+    position: relative;
+    left: 500px;
+}
+
+.input{
+    position: relative;
+    left: 200px;
+}
+
+.profile{
+    /* background-color: antiquewhite; */
+    display: inline-block;
+    position:absolute;
+    margin-top: -40px;
+    left: 500px;
+    
+}
+
+
+.profile-description{
+    display: inline-block;
+    position:absolute;
+    margin-top: -40px;
+    left: 545px;
+    font-size: 14px;
+}
+.profile-name{
+
+    font-weight: bold;
+}
+
+
+
+.nav-items img{
+        width: 100px;
+}
+   
+p{
+    padding-right: 34px;
+}
+
+
+.mid-section{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+       
+}
+.mid-section p img{
+       height: 500px;
+       
+}
+
+
+#gallery_container
+{
+   width: 450px;
+}
+
+#gallery_container img
+{
+   margin-bottom: 20px;
+}
+
+
+
+.buttons{
+    display: flex;
+    justify-content: center;align-items: center;
+       
+}
+
+.buttons p
+{
+    display:inline-block;
+    position: relative;
+    margin-top: 10px;
+    left:-100px;
+       
+}
+
+.description{
+    display: inline-block;
+    position: relative;
+    text-align: left;
+    top: 15px;
+    left: 500px;
+    width: 400px;
+    font-weight: bold;
+    font-family: arial;
+}
+
+#display{
+    background-color:rgb(255, 255, 255);
+    border: none;
+    font-weight: bold;
+}
+#btn{
+    display: inline-flex;
+    margin-left: 600px;
+    margin-top: 15px;
+}
