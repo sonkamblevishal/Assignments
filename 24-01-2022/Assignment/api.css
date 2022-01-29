@@ -1,0 +1,26 @@
+h1{
+    text-align:center;
+}
+/* 
+body{
+    background-color:#467746;
+    box-sizing: border-box;
+} */
+
+table{
+   position: relative;
+   /* left: 25rem; */
+    background-color: rgb(232, 203, 255);
+    border: 1px solid;
+   
+}
+
+table  td{
+    border:1px solid;
+    padding: 10px;
+}
+
+table tr{
+    border:1px solid;
+    padding: 10px;
+}
