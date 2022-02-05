@@ -1,0 +1,19 @@
+.container{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    margin-top:100px;
+}
+
+
+h1{
+    text-align:center;
+}
+
+#btn{
+margin: 34px;
+}
+
+#button{
+margin: 34px;
+}
