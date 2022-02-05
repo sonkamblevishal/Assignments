@@ -1,0 +1,38 @@
+.container1{
+    margin-top: 50px;
+    margin-left: 35%;
+    width: 30vw;
+    border:2px solid rgb(110, 110, 110);
+    border-radius: 15px;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 30%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+h2{
+    text-align: center;
+}
+
+#time{
+    margin-left: 160px;
+    text-align: center;
+    font-weight: bold;
+    font-size:34px;
+}
+
+#start_btn{
+    margin-left: 30px;
+}
+
+#stop_btn{
+     margin-left: 30px;
+    text-align: center;
+}
